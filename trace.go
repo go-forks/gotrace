@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	cINFTY  = 10000000        // it suffices that this is longer than any path; it need not be really infinite
+	cINFTY  = 2147483647        // it suffices that this is longer than any path; it need not be really infinite
 	cCOS179 = -0.999847695156 // the cosine of 179 degrees
 )
 
